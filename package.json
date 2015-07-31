@@ -1,0 +1,16 @@
+{
+  "name": "assistant",
+  "version": "0.0.0",
+  "description": "Helping managing advocate jobs, build with angular.",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "webpack": "~1.10.5",
+    "webpack-dev-server": "~1.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Vivek M. N.",
+  "license": "BSD-2-Clause"
+}
